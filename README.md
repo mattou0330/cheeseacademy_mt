@@ -5,7 +5,7 @@
 重要箇所は課題どおりに作成いたしました。
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://mattou0330.github.io/cheeseacademy_mt/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 ナッシングです
